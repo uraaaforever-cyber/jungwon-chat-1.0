@@ -1,0 +1,7 @@
+{
+  "name": "jungwon Chat",
+  "description": "A dreamy, particle-based conversational interface powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
